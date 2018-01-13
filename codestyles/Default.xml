@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <codeStyleSettings language="Python">
     <option name="SPACE_BEFORE_COMMA" value="true" />
@@ -7,6 +8,7 @@
     <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
