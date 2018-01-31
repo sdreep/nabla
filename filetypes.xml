@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="son" type="JSON" />
       <mapping pattern="top_spread" type="PLAIN_TEXT" />
+      <mapping pattern="autorun" type="PLAIN_TEXT" />
       <mapping ext="tick" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
